@@ -1,0 +1,55 @@
+body {
+
+    font-family: Arial, sans-serif;
+    
+    text-align: center;
+    
+    }
+    
+    .products {
+    
+    display: flex;
+    
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    
+    }
+    
+    .product {
+    
+    border: 1px solid #ddd;
+    
+    padding: 10px;
+    
+    margin: 10px;
+    
+    }
+    
+    .add-to-cart {
+    
+    background-color: #007bff;
+    
+    color: #fff;
+    
+    padding: 5px 10px;
+    
+    border: none;
+    
+    cursor: pointer;
+    
+    }
+    
+    .shopping-cart {
+    
+    border: 1px solid #ddd;
+    
+    padding: 10px;
+    
+    margin: 10px;
+    
+    display: flex;
+    
+    flex-direction: column;
+    
+    }
